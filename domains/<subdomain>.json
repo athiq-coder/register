@@ -1,0 +1,12 @@
+{
+  "description": "Add some description",
+  "repo": "https://github.com/athiq-coder/athiqur.github.io",
+  "owner": {
+    "username": "athiq-coder",
+    "email": "athiqurking@gmail.com",
+    "twitter": "Athiqur"
+  },
+  "record": {
+    "CNAME": "<athiq-coder>.github.io"
+  }
+}
